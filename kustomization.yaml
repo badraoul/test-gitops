@@ -1,6 +1,6 @@
 namespace: gitops-test
 namePrefix: dev-
-nameSuffix: "-003"
+nameSuffix: "-004"
 commonLabels:
   app: bingo
 commonAnnotations:
